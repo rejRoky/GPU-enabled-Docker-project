@@ -52,5 +52,4 @@ This project is a simple Python application that utilizes GPU resources using Do
 17. The output indicates that the GPU is available and that a tensor operation was performed using the GPU.
 18. **Stopping the Docker container**:
 19. To stop the Docker container, press `Ctrl+C` in the terminal.
-20. **Summary**:
-21. This project demonstrates how to utilize GPU resources in a Docker container using NVIDIA's Docker toolkit. You can extend this project by adding more complex GPU-accelerated applications or libraries to the Docker container.
+20. **Summary**: This project demonstrates how to utilize GPU resources in a Docker container using NVIDIA's Docker toolkit. You can extend this project by adding more complex GPU-accelerated applications or libraries to the Docker container.
